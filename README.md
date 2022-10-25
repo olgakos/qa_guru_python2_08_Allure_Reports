@@ -1,2 +1,2 @@
-# qa_guru_python2_08_Allure_Reports
+# qa_guru_python_2_08_Allure_Reports
 Allure Reports
